@@ -7,6 +7,6 @@
 #
 
 <a href="https://github.com/MBCaus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MBCaus&show_icons=true&theme=dark" />
-  <img width="414px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBCaus&layout=compact&theme=dark" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=MBCaus&show_icons=true&theme=dark" />
+  <img width="355px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBCaus&layout=compact&theme=dark" />
 </a>
