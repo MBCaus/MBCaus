@@ -15,6 +15,6 @@
 
 ### Informações para contato:
 
-✅ [WhatsApp](https://wa.me/5511920035343)
+🌐 [LinkedIn](https://www.linkedin.com/in/matheus-barizon-caus-7237a8258/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/matheus-barizon-caus-7237a8258/)
+✅ [WhatsApp](https://wa.me/5511920035343)
