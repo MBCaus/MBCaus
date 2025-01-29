@@ -1,8 +1,8 @@
-## Olá, meu nome é Matheus Barizon Caus, seja bem vindo! 👀
+## Olá, meu nome é Matheus Barizon Caus, seja bem vindo!
 
-  - 🎓 Cursando Ciência da Computação 6/8
-  - 🥳 20 anos
-  - 🗺 São Paulo, SP
+  - Cursando Ciência da Computação 7/8
+  - 20 anos
+  - São Paulo, SP
 
 #
 
@@ -15,6 +15,6 @@
 
 ### Informações para contato:
 
-🌐 [LinkedIn](https://www.linkedin.com/in/matheus-barizon-caus-7237a8258/)
+[LinkedIn](https://www.linkedin.com/in/matheus-barizon-caus-7237a8258/)
 
-✅ [WhatsApp](https://wa.me/5511920035343)
+[WhatsApp](https://wa.me/5511920035343)
